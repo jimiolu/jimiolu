@@ -4,7 +4,7 @@ Wale Akaje is a skilled seasoned Frontend Engineer and Technical writer with exp
 Wale is well vast in modern web application development using state of art technologies and top-notch professionalism. He is proficient in writing cool front-end applications with HTML, CSS, JS, and ReactJS. He's also vast in writing other programming languages such as Python and C.<br>
 He engaged with the developer community through meetups, boot camps, hackathons, lectures, spaces, and training. He's currently busy building cool projects and developing his skillset.<br>
 Wale's spirit of collaboration is high because he believes a lot could be done with a combination of heads working as a team. He's always open to collaboration<br>
-Aside from punching keyboards for magical happening, he also writes a lot of articles and cool stuff [Here](https://akasoft.hashnode.dev/) where he shares his journeys while helping others to develop and gaining viable skill.
+Aside from punching keyboards for magical happening, he also writes a lot of articles and cool stuff [Here](https://akasoft.hashnode.dev/) where he shares his journeys while helping others to develop and gain viable skills.
 
 <!--
 **waleakaje/waleakaje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
