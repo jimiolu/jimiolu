@@ -18,6 +18,7 @@ Aside from punching keyboards for magical happenings, he also writes a lot of ar
 - ⚡ Fun fact: I love exploring
 
 ### Recent Blog Posts ✍️
+#
 - [The Art of Successful Programming](https://akasoft.hashnode.dev/the-art-of-successful-programming)
 
 <!--
