@@ -1,11 +1,19 @@
 ### Hi there 👋
 Wale Akaje is a skilled seasoned Frontend Engineer and Technical writer with expertise in web application development, open source, and software products. He has contributed to cool open-source projects, and he's the Ogun State Ambassador for AmazingTechCommunity. <br><br>
-Wale is vast in modern web application development using state-of-the-art technologies coupled with top-notch professionalism. He is proficient in writing cool front-end applications with HTML, CSS, JS, and ReactJS. He's also vast in writing other programming languages such as Python and C.<br><br>
+Due to his background in Physical Science (Physics), Wale is vast in modern web application development using state-of-the-art technologies coupled with top-notch professionalism. He is proficient in writing cool front-end applications with HTML, CSS, JS, and ReactJS. He's also vast in writing other programming languages such as Python and C.<br><br>
 He engaged with the developer community through meetups, boot camps, hackathons, lectures, spaces, and training. He's currently busy building cool projects and developing his skillset.<br><br>
 Wale's spirit of collaboration is one of it kind because he believes that a lot could be done with a combination of heads working as a team. He's always open to collaboration<br><br>
 Aside from punching keyboards for magical happenings, he also writes a lot of articles and cool stuff <a href="https://akasoft.hashnode.dev/" target="_blank">Here</a> where he shares his journeys while helping others to develop and gain viable skills
 #
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate more on open-source projects
+- 💬 Ask me about Web Development, Technical Writing, Open-Source, Beginners Tips, Tech Hacks, and Science.
+- 📫 How to reach me:
+- - Social Media
+  - - [Twitter](https://twitter.com/waleakaje) | [Linkedin](https://linkedin.com/in/waleakaje) | [Linktree](https://linktr.ee/waleakaje)
+  - Technical Writing
+  - - [Blog](https://akasoft.hashnode.dev/) | [DEV.to](https://dev.to/waleakaje) | [Medium](akasoft.medium.com)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love exploring
 
 
 <!--
