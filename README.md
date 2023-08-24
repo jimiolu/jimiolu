@@ -9,9 +9,9 @@ Aside from punching keyboards for magical happenings, he also writes a lot of ar
 - 💬 Ask me about Web Development, Technical Writing, Open-Source, Beginners Tips, Tech Hacks, and Science.
 - 📫 How to reach me:
 - - Social Media
-  - - [Twitter](https://twitter.com/waleakaje) | [Linkedin](https://linkedin.com/in/waleakaje) | [Linktree](https://linktr.ee/waleakaje)
+    - [Twitter](https://twitter.com/waleakaje) | [Linkedin](https://linkedin.com/in/waleakaje) | [Linktree](https://linktr.ee/waleakaje)
   - Technical Writing
-  - - [Blog](https://akasoft.hashnode.dev/) | [DEV.to](https://dev.to/waleakaje) | [Medium](akasoft.medium.com)
+    - [Blog](https://akasoft.hashnode.dev/) | [DEV.to](https://dev.to/waleakaje) | [Medium](akasoft.medium.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love exploring
 
