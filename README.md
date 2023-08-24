@@ -5,8 +5,8 @@ He engaged with the developer community through meetups, boot camps, hackathons,
 Wale's spirit of collaboration is one of it kind because he believes that a lot could be done with a combination of heads working as a team. He's always open to collaboration<br><br>
 Aside from punching keyboards for magical happenings, he also writes a lot of articles and cool stuff <a href="https://akasoft.hashnode.dev/" target="_blank">Here</a> where he shares his journeys while helping others to develop and gain viable skills
 #
-- 👯 I’m looking to collaborate more on open-source projects<br>
-- 💬 Ask me about Web Development, Technical Writing, Open-Source, Beginners Tips, Tech Hacks, and Science.<br>
+- 👯 I’m looking to collaborate more on open-source projects<br><br>
+- 💬 Ask me about Web Development, Technical Writing, Open-Source, Beginners Tips, Tech Hacks, and Science.<br><br>
 - 📫 How to reach me:
   - Social Media
     - [Twitter](https://twitter.com/waleakaje) | [Linkedin](https://linkedin.com/in/waleakaje) | [Linktree](https://linktr.ee/waleakaje)
@@ -14,9 +14,9 @@ Aside from punching keyboards for magical happenings, he also writes a lot of ar
     - [Blog](https://akasoft.hashnode.dev/) | [DEV.to](https://dev.to/waleakaje) | [Medium](akasoft.medium.com)
   - Vlog
     - [Youtube](https://youtube.com/@hackersnode)
-<br>
+<br>br>
 - 😄 Pronouns: he/him
-<br>
+<br><br>
 - ⚡ Fun fact: I love exploring
 
 ## Recent Blog Posts ✍️
