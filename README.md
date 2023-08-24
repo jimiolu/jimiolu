@@ -15,7 +15,6 @@ Aside from punching keyboards for magical happenings, he also writes a lot of ar
   - Vlog
     - [Youtube](https://youtube.com/@hackersnode)
 - 😄 Pronouns: he/him
-<br>
 - ⚡ Fun fact: I love exploring
 
 ## Recent Blog Posts ✍️
