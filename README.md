@@ -8,9 +8,9 @@ Aside from punching keyboards for magical happenings, he also writes a lot of ar
 - 👯 I’m looking to collaborate more on open-source projects<br><br>
 - 💬 Ask me about Web Development, Technical Writing, Open-Source, Beginners Tips, Tech Hacks, and Science.<br><br>
 - 📫 How to reach me:<br><br>
-  - Social Media
+  - Social Media Links:
     - [Twitter](https://twitter.com/waleakaje) | [Linkedin](https://linkedin.com/in/waleakaje) | [Linktree](https://linktr.ee/waleakaje)
-  - Technical Writing
+  - Technical Writing Profiles:
     - [Blog](https://akasoft.hashnode.dev/) | [DEV.to](https://dev.to/waleakaje) | [Medium](akasoft.medium.com)
   - Vlog
     - [Youtube](https://youtube.com/@hackersnode) <br><br>
