@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 Wale Akaje is a skilled seasoned Frontend Engineer and Technical writer with expertise in web application development, open source, and software products. He has contributed to a cool open-source project, and he's the Ogun State Ambassador for AmazingTechCommunity. <br><br>
 Wale is well vast in modern web application development using state of art technologies and top-notch professionalism. He is proficient in writing cool front-end applications with HTML, CSS, JS, and ReactJS. He's also vast in writing other programming languages such as Python and C.<br><br>
 He engaged with the developer community through meetups, boot camps, hackathons, lectures, spaces, and training. He's currently busy building cool projects and developing his skillset.<br>
