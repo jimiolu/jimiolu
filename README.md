@@ -4,6 +4,8 @@ Wale is vast in modern web application development using state-of-the-art techno
 He engaged with the developer community through meetups, boot camps, hackathons, lectures, spaces, and training. He's currently busy building cool projects and developing his skillset.<br><br>
 Wale's spirit of collaboration is one of it kind because he believes that a lot could be done with a combination of heads working as a team. He's always open to collaboration<br><br>
 Aside from punching keyboards for magical happenings, he also writes a lot of articles and cool stuff <a href="https://akasoft.hashnode.dev/" target="_blank">Here</a> where he shares his journeys while helping others to develop and gain viable skills
+#
+- 👯 I’m looking to collaborate on ...
 
 
 <!--
