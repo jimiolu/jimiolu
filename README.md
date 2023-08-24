@@ -13,8 +13,7 @@ Aside from punching keyboards for magical happenings, he also writes a lot of ar
   - Technical Writing
     - [Blog](https://akasoft.hashnode.dev/) | [DEV.to](https://dev.to/waleakaje) | [Medium](akasoft.medium.com)
   - Vlog
-    - [Youtube](https://youtube.com/@hackersnode)
-<br>
+    - [Youtube](https://youtube.com/@hackersnode) <br><br>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love exploring
 
