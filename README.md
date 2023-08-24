@@ -6,7 +6,6 @@ Wale's spirit of collaboration is one of it kind because he believes that a lot 
 Aside from punching keyboards for magical happenings, he also writes a lot of articles and cool stuff <a href="https://akasoft.hashnode.dev/" target="_blank">Here</a> where he shares his journeys while helping others to develop and gain viable skills
 #
 - 👯 I’m looking to collaborate more on open-source projects
-<br>
 - 💬 Ask me about Web Development, Technical Writing, Open-Source, Beginners Tips, Tech Hacks, and Science.<br>
 - 📫 How to reach me:<br>
   - Social Media
