@@ -17,6 +17,8 @@ Aside from punching keyboards for magical happenings, he also writes a lot of ar
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love exploring
 
+## Recent Blog Post
+- [The Art of Successful Programming](https://akasoft.hashnode.dev/the-art-of-successful-programming)
 
 <!--
 **waleakaje/waleakaje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
