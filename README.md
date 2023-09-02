@@ -19,6 +19,7 @@ Aside from punching keyboards for magical happenings, he also writes a lot of ar
 
 ## Recent Blog Posts ✍️
 - [The Art of Successful Programming](https://akasoft.hashnode.dev/the-art-of-successful-programming)
+- [The Art of Debugging](https://akasoft.hashnode.dev/the-art-of-debugging)
 
 <!--
 **waleakaje/waleakaje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
