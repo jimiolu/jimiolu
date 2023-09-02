@@ -11,7 +11,7 @@ Aside from punching keyboards for magical happenings, he also writes a lot of ar
   - Social Media Links:
     - [Twitter](https://twitter.com/waleakaje) | [Linkedin](https://linkedin.com/in/waleakaje) | [Linktree](https://linktr.ee/waleakaje)
   - Technical Writing Profiles:
-    - [Blog](https://akasoft.hashnode.dev/) | [Medium](waleakaje.medium.com) | [DEV.to](https://dev.to/waleakaje) 
+    - [Blog](https://akasoft.hashnode.dev/) | [Medium](https://waleakaje.medium.com) | [DEV.to](https://dev.to/waleakaje) 
   - Vlog
     - [Youtube](https://youtube.com/@hackersnode) <br><br>
 - 😄 Pronouns: he/him<br>
