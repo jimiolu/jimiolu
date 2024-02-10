@@ -9,11 +9,11 @@ Aside from punching keyboards for magical happenings, he also writes a lot of ar
 - 💬 Ask me about Web Development, Technical Writing, Open-Source, Beginners Tips, Tech Hacks, and Science.<br><br>
 - 📫 How to reach me:<br><br>
   - Social Media Links:
-    - [Twitter](https://twitter.com/stevemadue) | [Linkedin](https://linkedin.com/in/madue) | [Linktree](https://linktr.ee/stevemadue)
+    - [Twitter](https://twitter.com/stevemadue) | [Linkedin](https://linkedin.com/in/madue) | [Linktree](https://linktr.ee/smadue)
   - Technical Writing Profiles:
     - [Blog](https://madue.hashnode.dev/) | [Medium](https://madue.medium.com) | [DEV.to](https://dev.to/madue) 
   - Vlog
-    - [Youtube](https://youtube.com/@stevemadue) <br><br>
+    - [Youtube](https://youtube.com/@smadue) <br><br>
 - 😄 Pronouns: he/him<br>
 - ⚡ Fun fact: I love exploring
 
