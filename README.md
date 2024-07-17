@@ -1,17 +1,17 @@
 ### Hi there 👋
-Brian Suyi is a skilled seasoned Software Engineer and Technical writer with expertise in web application development, open source, and software products. He has contributed to cool open-source projects. <br><br>
+Victor Alec O. is a skilled seasoned Software Engineer and Technical writer with expertise in web application development, open source, and software products. He has contributed to cool open-source projects. <br><br>
 Due to his background in Physical Science (Physics), Brian is vast in modern web application development using state-of-the-art technologies coupled with top-notch professionalism. He is proficient in writing cool software application development with Javascript, Typescript, Next.Js, React.Js, and Python. He's also vast in writing C Programming Language.<br><br>
 He engaged with the Developer Community through meetups, boot camps, hackathons, lectures, spaces, and training. He's currently busy building cool projects and developing his skillset.<br><br>
-Brian's spirit of collaboration is one of it kind because he believes that a lot could be done with a combination of heads working as a team. He's always open to productive collaboration.<br><br>
+Alec's spirit of collaboration is one of it kind because he believes that a lot could be done with a combination of heads working as a team. He's always open to productive collaboration.<br><br>
 Aside from punching keyboards for magical happenings, he also writes a lot of articles and cool stuff <a href="https://kenfola.hashnode.dev/" target="_blank">Here</a> where he shares his journey while helping others to develop and gain viable skills.
 #
 - 👯 I’m looking to collaborate more on open-source projects<br><br>
 - 💬 Ask me about Web Development, Technical Writing, Open-Source, Beginners Tips, Tech Hacks, and Science.<br><br>
 - 📫 How to reach me:<br><br>
   - Social Media Links:
-    - [Twitter](https://twitter.com/briansuyi) | [Linkedin](https://linkedin.com/in/bsuyi) | [Profile](https://bento.me/bsuyi)
+    - [Twitter](https://twitter.com/briansuyi) | [Linkedin](https://linkedin.com/in/voalec) | [Profile](https://bento.me/voalec)
   - Technical Writing Profiles:
-    - [Blog](https://bsuyi.hashnode.dev/) | [Medium](https://briansuyi.medium.com) | [DEV.to](https://dev.to/bsuyi) 
+    - [Blog](https://voalec.hashnode.dev/) | [Medium](https://briansuyi.medium.com) | [DEV.to](https://dev.to/bsuyi) 
   - Vlog
     - [Youtube](https://youtube.com/@excelship) <br><br>
 - 😄 Pronouns: he/him<br>
