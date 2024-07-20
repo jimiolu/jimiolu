@@ -9,17 +9,17 @@ Aside from punching keyboards for magical happenings, he also writes a lot of ar
 - 💬 Ask me about Web Development, Technical Writing, Open-Source, Beginners Tips, Tech Hacks, and Science.<br><br>
 - 📫 How to reach me:<br><br>
   - Social Media Links:
-    - [Twitter](https://twitter.com/vcoalec) | [Linkedin](https://linkedin.com/in/voalec) | [Profile](https://bento.me/valec)
+    - [Twitter](https://twitter.com/voallec) | [Linkedin](https://linkedin.com/in/voalec) | [My Website](https://valec.vercel.app)
   - Technical Writing Profiles:
-    - [Blog](https://voalec.hashnode.dev/) | [Medium](https://alecvo.medium.com) | [DEV.to](https://dev.to/bsuyi) 
+    - [Blog](https://valec.hashnode.dev/) | [Medium](https://voalec.medium.com) | [DEV.to](https://dev.to/) 
   - Vlog
-    - [Youtube](https://youtube.com/@excelship) <br><br>
+    - [Youtube](https://youtube.com/@voalec) <br><br>
 - 😄 Pronouns: he/him<br>
 - ⚡ Fun fact: I love exploring
 
 ## Recent Blog Posts ✍️
-- [The Art of Successful Programming](https://bsuyi.hashnode.dev/the-art-of-successful-programming)
-- [Fancy Debugging](https://bsuyi.hashnode.dev/fancy-debugging)
+- [The Art of Successful Programming](https://valec.hashnode.dev/the-art-of-successful-programming)
+- [Fancy Debugging](https://valec.hashnode.dev/fancy-debugging)
 
 <!--
 **waleakaje/waleakaje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
