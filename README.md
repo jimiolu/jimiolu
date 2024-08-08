@@ -1,5 +1,5 @@
 ### Hi there 👋
-Alec victor O. is a skilled seasoned Software Engineer and Technical writer with expertise in web application development, open source, and software products. He has contributed to cool open-source projects. <br><br>
+Alec Victor O. is a skilled seasoned Software Engineer and Technical writer with expertise in web application development, open source, and software products. He has contributed to cool open-source projects. <br><br>
 Due to his background in Physical Science (Physics), Brian is vast in modern web application development using state-of-the-art technologies coupled with top-notch professionalism. He is proficient in writing cool software application development with Javascript, Typescript, Next.Js, React.Js, and Python. He's also vast in writing C Programming Language.<br><br>
 He engaged with the Developer Community through meetups, boot camps, hackathons, lectures, spaces, and training. He's currently busy building cool projects and developing his skillset.<br><br>
 Alec's spirit of collaboration is one of it kind because he believes that a lot could be done with a combination of heads working as a team. He's always open to productive collaboration.<br><br>
