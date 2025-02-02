@@ -1,25 +1,7 @@
 ### Hi there 👋
-Alec Fürst (furstDev) is a skilled seasoned Software Engineer and Technical writer with expertise in web application development, open source, and software products. He has contributed to cool open-source projects. <br><br>
-Due to his background in Physical Science (Physics), Brian is vast in modern web application development using state-of-the-art technologies coupled with top-notch professionalism. He is proficient in writing cool software application development with Javascript, Typescript, Next.Js, React.Js, and Python. He's also vast in writing C Programming Language.<br><br>
-He engaged with the Developer Community through meetups, boot camps, hackathons, lectures, spaces, and training. He's currently busy building cool projects and developing his skillset.<br><br>
-Alec's spirit of collaboration is one of it kind because he believes that a lot could be done with a combination of heads working as a team. He's always open to productive collaboration.<br><br>
-Aside from punching keyboards for magical happenings, he also writes a lot of articles and cool stuff <a href="https://valec.hashnode.dev/" target="_blank">Here</a> where he shares his journey while helping others to develop and gain viable skills.
-#
-- 👯 I’m looking to collaborate more on open-source projects<br><br>
-- 💬 Ask me about Web Development, Technical Writing, Open-Source, Beginners Tips, Tech Hacks, and Science.<br><br>
-- 📫 How to reach me:<br><br>
-  - Social Media Links:
-    - [Twitter](https://twitter.com/furstdev) | [Linkedin](https://linkedin.com/in/furstdev) | [My Website](https://furstdev.vercel.app)
-  - Technical Writing Profiles:
-    - [Blog](https://valec.hashnode.dev/) | [Medium](https://alecog.medium.com) | [DEV.to](https://dev.to/) 
-  - Vlog
-    - [Youtube](https://youtube.com/@furstdev) <br><br>
-- 😄 Pronouns: he/him<br>
-- ⚡ Fun fact: I love exploring
+As a Software Engineer, Web3 Developer, and Blockchain expert, I specialize in creating innovative solutions that drive the digital transformation of industries. With 5 years of experience in full-stack development, I am passionate about leveraging blockchain technology and Web3 to shape the future of decentralized applications.
 
-## Recent Blog Posts ✍️
-- [The Art of Successful Programming](https://valec.hashnode.dev/the-art-of-successful-programming)
-- [Fancy Debugging](https://valec.hashnode.dev/fancy-debugging)
+Currently working towards building my own tech company, I am focused on revolutionizing the tech landscape and creating impactful, scalable solutions that foster growth in the global tech ecosystem. Always eager to collaborate with forward-thinking professionals and visionaries to push the boundaries of what's possible in technology.
 
 <!--
 **waleakaje/waleakaje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
