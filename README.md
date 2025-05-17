@@ -1,7 +1,7 @@
 ### Hi there 👋
-As a Software Engineer, Web3 Dev, and Blockchain Expert, I specialize in creating innovative solutions that drive the digital transformation of industries. With 4 years of experience in full-stack development, I am passionate about leveraging blockchain technology and Web3 to shape the future of decentralized applications.
+As a Software Engineer, Web3 Dev, and Blockchain Expert, I specialize in creating innovative solutions that drive the digital transformation of industries. With close to decade of experience in full-stack development, I am passionate about leveraging smart technology and Web3 to shape the future of software applications.
 
-Currently working towards building my own tech company, I am focused on revolutionizing the tech landscape and creating impactful, scalable solutions that foster growth in the global tech ecosystem. Always eager to collaborate with forward-thinking professionals and visionaries to push the boundaries of what's possible in technology.
+Currently working towards building my own tech company @indisis, I am focused on revolutionizing the tech landscape and creating impactful, scalable solutions that foster growth in the global tech ecosystem. Always eager to collaborate with forward-thinking professionals and visionaries to push the boundaries of what's possible in technology.
 
 <!--
 **waleakaje/waleakaje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
