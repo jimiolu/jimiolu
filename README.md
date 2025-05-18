@@ -3,6 +3,10 @@ As a Software Engineer, Web3 Dev, and Blockchain Expert, I specialize in creatin
 
 Currently working towards building my own tech company @indisis, I am focused on revolutionizing the tech landscape and creating impactful, scalable solutions that foster growth in the global tech ecosystem. Always eager to collaborate with forward-thinking professionals and visionaries to push the boundaries of what's possible in technology.
 
+<p align="center">
+  <a href="https://twitter.com/jimiolu" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow" alt="Follow me on Twitter"></a>
+</p>
+
 <!--
 **waleakaje/waleakaje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
